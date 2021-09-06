@@ -1,4 +1,4 @@
-import * as React from 'react';
+import  React from 'react';
 import {
   Text,
   View,
@@ -106,6 +106,6 @@ const styles = StyleSheet.create({
   imageIcon: {
     width: 150,
     height: 150,
-    marginLeft: 95,
+    alignSelf:"center",
   }
 });
